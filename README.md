@@ -15,3 +15,7 @@ git add .
 ...
 
 git commit -m "This is my first commit."
+
+,,.
+git pull 
+...
