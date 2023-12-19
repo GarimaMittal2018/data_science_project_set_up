@@ -9,7 +9,7 @@ echo [$(date)]: "activating the environment"
 source ~/anaconda3/etc/profile.d/conda.sh
 
 
-source activate env
+source activate ./env
 
 echo [$(date)]: "Installing the dev requirements."
 
