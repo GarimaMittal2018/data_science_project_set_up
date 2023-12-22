@@ -6,10 +6,9 @@ conda create --prefix ./env python=3.8 -y
 
 echo [$(date)]: "activating the environment"
 
-source ~/anaconda3/etc/profile.d/conda.sh
+python -m venv env
 
-
-source activate ./env
+source env/Scripts/activate
 
 echo [$(date)]: "Installing the dev requirements."
 
