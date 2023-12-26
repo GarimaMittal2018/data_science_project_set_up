@@ -20,7 +20,7 @@ list_of_files=[
     "notebooks/data/.gitkeep",
     "requirements.txt",
     "setup.py",
-    "init__setup.sh",
+    "init_setup.sh",
 ]
 
 

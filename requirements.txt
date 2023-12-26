@@ -1,0 +1,6 @@
+pandas
+numpy
+scikit-learn
+
+
+# -e .   to install setup.py file
