@@ -2,6 +2,8 @@ pandas
 numpy
 scikit-learn
 ipykernel
+matplotlib
+seaborn
 
 
 # -e .   to install setup.py file
